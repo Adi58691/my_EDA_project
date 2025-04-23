@@ -1,1 +1,1 @@
-# my_EDA_project
+This project involves performing Exploratory Data Analysis on the [Dataset Name] to uncover patterns, trends, and insights hidden within the data. The analysis includes data cleaning, visualization, and summary statistics to understand the structure and relationships in the dataset. The goal is to generate meaningful insights that can support decision-making and further modeling processes
